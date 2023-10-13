@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\" />
+    <None Remove="Entities\Auth\" />
+    <None Remove="DTOs\" />
+    <None Remove="DTOs\Requests\" />
+    <None Remove="DTOs\Responses\" />
+    <None Remove="DTOs\Requests\Auth\" />
+    <None Remove="DTOs\Responses\Auth\" />
+    <None Remove="Interfaces\" />
+    <None Remove="Interfaces\Auth\" />
+    <None Remove="Interfaces\Email\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+    <Folder Include="Entities\Auth\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="DTOs\Requests\" />
+    <Folder Include="DTOs\Responses\" />
+    <Folder Include="DTOs\Requests\Auth\" />
+    <Folder Include="DTOs\Responses\Auth\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Interfaces\Auth\" />
+    <Folder Include="Interfaces\Email\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.20">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.20" />
+  </ItemGroup>
+</Project>

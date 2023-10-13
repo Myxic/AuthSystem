@@ -1,0 +1,14 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/bin/Debug/net6.0/AuthSystem.core.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/bin/Debug/net6.0/AuthSystem.core.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/bin/Debug/net6.0/AuthSystem.core.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/bin/Debug/net6.0/AuthSystem.core.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/refint/AuthSystem.core.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/AuthSystem.core.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.core/obj/Debug/net6.0/ref/AuthSystem.core.dll

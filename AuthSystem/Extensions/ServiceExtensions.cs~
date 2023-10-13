@@ -1,0 +1,26 @@
+﻿
+using AuthSystem.core.Interfaces.Auth;
+using AuthSystem.core.Interfaces.Email;
+
+namespace AuthSystem.Api.Extensions;
+
+public static class ServiceExtensions
+{
+    public static void ConfigureLoggerService(this IServiceCollection services)
+    {
+        services.AddDbContext<DataContext>();
+        services.AddCors();
+
+        services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+        services.AddSwaggerGen();
+
+        // configure strongly typed settings object
+        services.Configure<AppSettings>(builder.Configuration.GetSection("AppSettings"));
+
+        // configure DI for application services
+        services.AddScoped<IJwtUtils, JwtUtils>();
+        services.AddScoped<IAccountService, AccountService>();
+        services.AddScoped<IEmailService, EmailService>();
+
+    }
+}

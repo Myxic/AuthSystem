@@ -1,0 +1,72 @@
+﻿<Properties StartupConfiguration="{B388DB87-2550-4A2F-9F2E-E410325E4C88}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AuthSystem/AuthSystem.Api.csproj">
+    <Files>
+      <File FileName="AuthSystem.core/Entities/Auth/Account.cs" />
+      <File FileName="AuthSystem.core/Entities/Auth/RefreshToken.cs" />
+      <File FileName="AuthSystem.core/Entities/Auth/Role.cs" />
+      <File FileName="AuthSystem/Controllers/AccountsController.cs" />
+      <File FileName="AuthSystem/Controllers/BaseController.cs" />
+      <File FileName="AuthSystem.core/Interfaces/Auth/IAccountService.cs" />
+      <File FileName="AuthSystem.core/Interfaces/Email/IEmailService.cs" />
+      <File FileName="AuthSystem.Services/Impentation/Email/EmailService.cs" />
+      <File FileName="AuthSystem.Services/Impentation/Auth/AccountService.cs" />
+      <File FileName="AuthSystem/Program.cs" />
+      <File FileName="AuthSystem/Extensions/Middlewares/ErrorHandlerMiddleware.cs" />
+      <File FileName="AuthSystem.Infrastructure/Helpers/AppException.cs" />
+      <File FileName="AuthSystem/Extensions/ServiceExtensions.cs" />
+      <File FileName="AuthSystem.Infrastructure/Mapper/AutoMapperProfile.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/AuthenticateRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/CreateRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/ForgotPasswordRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/RegisterRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/ResetPasswordRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/RevokeTokenRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/UpdateRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/ValidateResetTokenRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Requests/Auth/VerifyEmailRequest.cs" />
+      <File FileName="AuthSystem.core/DTOs/Responses/Auth/AccountResponse.cs" />
+      <File FileName="AuthSystem.core/DTOs/Responses/Auth/AuthenticateResponse.cs" />
+      <File FileName="AuthSystem.Infrastructure/Authorization/JwtUtils.cs" />
+      <File FileName="AuthSystem.Infrastructure/DataContext/DataContext.cs" />
+      <File FileName="AuthSystem.Infrastructure/Helpers/AppSettings.cs" />
+      <File FileName="AuthSystem/Extensions/Middlewares/JwtMiddleware.cs" />
+      <File FileName="AuthSystem/appsettings.Development.json" />
+      <File FileName="AuthSystem/AuthSystem.Api.csproj" Line="31" Column="25" />
+      <File FileName="AuthSystem/Program.cs~" />
+      <File FileName="AuthSystem.Infrastructure/AuthSystem.Infrastructure.csproj" />
+      <File FileName="AuthSystem.core/AuthSystem.core.csproj" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AuthSystem" expanded="True">
+            <Node name="AuthSystem.core" expanded="True">
+              <Node name="Entities" expanded="True">
+                <Node name="Auth" expanded="True">
+                  <Node name="Account.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="AuthSystem.Infrastructure" expanded="True">
+              <Node name="Authorization" expanded="True" />
+              <Node name="DataContext" expanded="True" />
+              <Node name="Helpers" expanded="True" />
+              <Node name="Mapper" expanded="True" />
+            </Node>
+            <Node name="AuthSystem.Services" expanded="True">
+              <Node name="Impentation" expanded="True">
+                <Node name="Auth" expanded="True" />
+                <Node name="Email" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AuthSystem.Api PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

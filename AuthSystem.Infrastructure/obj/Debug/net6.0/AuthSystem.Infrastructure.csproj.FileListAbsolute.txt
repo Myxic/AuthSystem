@@ -1,0 +1,17 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/bin/Debug/net6.0/AuthSystem.Infrastructure.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/bin/Debug/net6.0/AuthSystem.Infrastructure.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/bin/Debug/net6.0/AuthSystem.Infrastructure.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/bin/Debug/net6.0/AuthSystem.Infrastructure.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/bin/Debug/net6.0/AuthSystem.core.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/bin/Debug/net6.0/AuthSystem.core.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.csproj.CopyComplete
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/refint/AuthSystem.Infrastructure.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/AuthSystem.Infrastructure.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Infrastructure/obj/Debug/net6.0/ref/AuthSystem.Infrastructure.dll

@@ -1,0 +1,17 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/bin/Debug/net6.0/AuthSystem.Services.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/bin/Debug/net6.0/AuthSystem.Services.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/bin/Debug/net6.0/AuthSystem.Services.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/bin/Debug/net6.0/AuthSystem.core.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/bin/Debug/net6.0/AuthSystem.Infrastructure.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/bin/Debug/net6.0/AuthSystem.Infrastructure.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/bin/Debug/net6.0/AuthSystem.core.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.csproj.CopyComplete
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/refint/AuthSystem.Services.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/AuthSystem.Services.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/AuthSystem/AuthSystem.Services/obj/Debug/net6.0/ref/AuthSystem.Services.dll
