@@ -394,7 +394,7 @@ public class AccountService : IAccountService
             // origin missing if request sent directly to api (e.g. from Postman)
             // so send instructions to verify directly with api
             message = $@"<p>Please use the below token to verify your email address with the <code>/accounts/verify-email</code> api route:</p>
-                            <p><code>{account.VerificationToken}</code></p>";
+                            <p><b><code>{account.VerificationToken}</code></b></p>";
         }
 
         _emailService.Send(
