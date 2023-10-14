@@ -15,10 +15,6 @@ public static class ServiceExtensions
     public static void ConfigureLoggerService(this IServiceCollection services)
     {
      
-        
-        
-
-
 
         // configure DI for application services
         services.AddScoped<IJwtUtils, JwtUtils>();
