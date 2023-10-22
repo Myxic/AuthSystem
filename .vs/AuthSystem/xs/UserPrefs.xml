@@ -1,6 +1,11 @@
 ﻿<Properties StartupConfiguration="{B388DB87-2550-4A2F-9F2E-E410325E4C88}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AuthSystem.Api PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="AuthSystem.Services/Impentation/Email/EmailService.cs">
     <Files>
       <File FileName="AuthSystem.core/Entities/Auth/Account.cs" />
@@ -15,7 +20,7 @@
       <File FileName="AuthSystem/Program.cs" />
       <File FileName="AuthSystem/Extensions/Middlewares/ErrorHandlerMiddleware.cs" />
       <File FileName="AuthSystem.Infrastructure/Helpers/AppException.cs" />
-      <File FileName="AuthSystem/Extensions/ServiceExtensions.cs" Line="17" Column="6" />
+      <File FileName="AuthSystem/Extensions/ServiceExtensions.cs" />
       <File FileName="AuthSystem.Infrastructure/Mapper/AutoMapperProfile.cs" />
       <File FileName="AuthSystem.core/DTOs/Requests/Auth/AuthenticateRequest.cs" />
       <File FileName="AuthSystem.core/DTOs/Requests/Auth/CreateRequest.cs" />
@@ -44,41 +49,8 @@
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="AuthSystem">
-            <Node name="AuthSystem.Api" expanded="True">
-              <Node name="Extensions" expanded="True" />
-            </Node>
-            <Node name="AuthSystem.core" expanded="True">
-              <Node name="DTOs" expanded="True">
-                <Node name="Requests" expanded="True" />
-                <Node name="Responses" expanded="True">
-                  <Node name="Auth" expanded="True" />
-                </Node>
-              </Node>
-              <Node name="Entities" expanded="True">
-                <Node name="Auth" expanded="True" />
-              </Node>
-              <Node name="Interfaces" expanded="True">
-                <Node name="Auth" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="AuthSystem.Services" expanded="True">
-              <Node name="Impentation" expanded="True">
-                <Node name="Auth" expanded="True" />
-                <Node name="Email" expanded="True">
-                  <Node name="EmailService.cs" selected="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.AuthSystem.Api PreferredExecutionTarget="/Applications/Firefox.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

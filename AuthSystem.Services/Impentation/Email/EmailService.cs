@@ -8,10 +8,6 @@ using AuthSystem.Infrastructure.Helpers;
 
 namespace AuthSystem.Services.Impentation.Email;
 
-
-
-
-
 public class EmailService : IEmailService
 {
     private readonly AppSettings _appSettings;
